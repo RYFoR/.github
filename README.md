@@ -2,8 +2,7 @@
   <img src="https://github.com/RYFoR/.github/blob/main/logo/RYFOR.LOGO.Squared.png" alt="RYFoR Logo" width="200"/>
 </p>
 
-<h1 align="center">RYFoR</h1>
-<p align="center"><strong>Rincon-Yanez FAIR Open Research</strong></p>
+<h1 align="center">Rincon-Yanez for FAIR Open Research</h1>
 <p align="center">Open, FAIR-aligned AI and semantic infrastructure tools by Diego Rincon-Yanez</p>
 
 ---
