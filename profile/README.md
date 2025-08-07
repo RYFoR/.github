@@ -1,4 +1,4 @@
-**RYFoR** is the scientific organization of Diego Rincon-Yanez. It brings together a portfolio of **reusable**, **interoperable**, and **FAIR-aligned** software, data, and semantic tools for modern open research. Projects span foundational AI architectures, semantic web technologies, and reproducible knowledge infrastructures.
+👋 Welcome to RYFoR — Rincon-Yanez FAIR Open Research an open space of scientific code, data, and tools curated by Diego Rincon-Yanez. It serves as a workspace to publish reusable, FAIR-aligned artifacts developed across projects in AI, semantic technologies, and open data infrastructure. The goal is to ensure transparency, reusability, and long-term value in research software and datasets.
 
 ## 🧭 Guiding Principles
 
